@@ -42,7 +42,7 @@ V = El tradicional try - catch y manejar las excepciones de manera mas fluidasd
 D = Requiere un polyfile para ser transpilados y ser interpretados en todos los navegadores //Babbel
 
 
-=============
+
 
 ## Code 
 
@@ -132,6 +132,6 @@ function fetchData(url_api, callback) {
     datos.send();
 }
 ```
-=============
+
 ### Fuentes:
 Tomado de: https://platzi.com/clases/1789-asincronismo-js/25002-conclusiones/
