@@ -1,5 +1,5 @@
 # 💚
-Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
+Un breve resumer de mis cursos realizados en la plataforma de Platzi [ANFEDMO](https://platzi.com/@ANFEDIMO/ "Desarrollador") de [Platzi](https://platzi.com/ "Platzi")
 > RESUMEN DEL PROYECTO A REALIZAR:
 
 1. Consumir la API y obtener cuántos personajes hay en total.
@@ -7,7 +7,13 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 3. Obtener el nombre de la Dimensión a la cual pertenece cada personaje.
 > 
 
-## En este curso vemos de todo
+## Peticiones a APIs usando Callbacks
+
+1.	XMLHttpRequest es la forma antigua de hacer llamados, como el profesor lo menciona usa ese y no Fetch que es el actual, por que no conocemos aùn las promesas y fecth es con promesas, para saber por que el profesor uso OPEN y todas esas funciones aqui està la forma de usar XMLHttpRequest : https://developer.mozilla.org/es/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest.
+2.	" new Error " que el profesor crea, es una nueva instancia de la clase Error que tiene Javascript, son clases ya implicitas que tiene javascript en este caso es para monstrar bien un mensaje de error podemos usarla, màs informaciòn aqui : https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Error.
+3.	Para los que son fron-end y están aprendiendo de Back, el profesor uso GET por que hace parte de los método http, en este caso necesitamos pedir información a las url ,màs información: https://developer.mozilla.org/es/docs/Web/HTTP/Methods
+4.	Por ultimo recomiendo una escucha atenta a lo que dice el profesor por que el explica el por que de cada cosa que hace y si no la conoces recomiendo buscarlas en Internet y asì avanzas en el curso.
+
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
@@ -15,65 +21,3 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
-
-![](https://giphy.com/gifs/rickandmorty-adult-swim-rick-and-morty-02x05-3o85xLpsBRfgeThAw8)
-
-### 科学公式 TeX(KaTeX)
-                    
-$$E=mc^2$$
-
-行内的公式$$E=mc^2$$行内的公式，行内的$$E=mc^2$$公式。
-
-$$\(\sqrt{3x-1}+(1+x)^2\)$$
-                    
-$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
-
-多行公式：
-
-```math
-\displaystyle
-\left( \sum\_{k=1}^n a\_k b\_k \right)^2
-\leq
-\left( \sum\_{k=1}^n a\_k^2 \right)
-\left( \sum\_{k=1}^n b\_k^2 \right)
-```
-
-```katex
-\displaystyle 
-    \frac{1}{
-        \Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{
-        \frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {
-        1+\frac{e^{-6\pi}}
-        {1+\frac{e^{-8\pi}}
-         {1+\cdots} }
-        } 
-    }
-```
-
-```latex
-f(x) = \int_{-\infty}^\infty
-    \hat f(\xi)\,e^{2 \pi i \xi x}
-    \,d\xi
-```
-                
-### 绘制流程图 Flowchart
-
-```flow
-st=>start: 用户登陆
-op=>operation: 登陆操作
-cond=>condition: 登陆成功 Yes or No?
-e=>end: 进入后台
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-                    
-### 绘制序列图 Sequence Diagram
-                    
-```seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
-```
