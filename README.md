@@ -44,5 +44,5 @@ D = Ese poder que podemos decir es decir si queremos algo debemos esperar que al
 D = Requiere un polyfile para ser transpilados y ser interpretados en todos los navegadores //Babbel
 
 
-###Fuentes:
+### Fuentes:
 Tomado de: https://platzi.com/clases/1789-asincronismo-js/25002-conclusiones/
