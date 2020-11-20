@@ -42,3 +42,7 @@ V = El tradicional try - catch y manejar las excepciones de manera mas fluida
 V = Mas fáciles de leer que sucedera que va a suceder
 D = Ese poder que podemos decir es decir si queremos algo debemos esperar que algo suceda
 D = Requiere un polyfile para ser transpilados y ser interpretados en todos los navegadores //Babbel
+
+
+###Fuentes:
+Tomado de: https://platzi.com/clases/1789-asincronismo-js/25002-conclusiones/
