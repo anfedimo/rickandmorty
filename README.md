@@ -11,7 +11,6 @@ Un breve resumen del Curso de Asincronismo con JavaScripts de la plataforma de P
 3. Obtener el nombre de la Dimensión a la cual pertenece cada personaje.
 > 
 
-
 # Peticiones a APIs usando Callbacks
 
 1.	XMLHttpRequest es la forma antigua de hacer llamados, como el profesor lo menciona usa ese y no Fetch que es el actual, por que no conocemos aùn las promesas y fecth es con promesas, para saber por que el profesor uso OPEN y todas esas funciones aqui està la forma de usar XMLHttpRequest : https://developer.mozilla.org/es/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest.
