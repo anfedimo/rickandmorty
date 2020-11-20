@@ -40,12 +40,12 @@ D = Requiere un polyfile para ser transpilados y ser interpretados en todos los 
 Async Await
 V = El tradicional try - catch y manejar las excepciones de manera mas fluidasd
 D = Requiere un polyfile para ser transpilados y ser interpretados en todos los navegadores //Babbel
-
+=============
 
 ## Code 
 
 ```html
-## <!Ejemplo 1>
+<!Ejemplo 1>
 // Implementación de una API con XMLHttpRquest
 // Instanciando el request.
 //Permite hacer peticiones a algun servidor en la nube
@@ -95,9 +95,9 @@ function fetchData(url_api, callback){
     xhttp.send();
 }
 ```
-
+=============
 ```html
-## <!Ejemplo 2>
+<!Ejemplo 2>
 // instanciamos el XML Sx: require('nombre_consola').nombre_archivo;
 // guardo en la variable el valor del archivo XMLHttpRequest
 let request = require("xmlhttprequest").XMLHttpRequest;
