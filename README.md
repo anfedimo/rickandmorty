@@ -38,10 +38,22 @@ D = NO maneja excepciones si no maneja un catch al final y seremos propensos a e
 D = Requiere un polyfile para ser transpilados y ser interpretados en todos los navegadores //Babbel
 
 Async Await
-V = El tradicional try - catch y manejar las excepciones de manera mas fluida
-V = Mas fáciles de leer que sucedera que va a suceder
-D = Ese poder que podemos decir es decir si queremos algo debemos esperar que algo suceda
+V = El tradicional try - catch y manejar las excepciones de manera mas fluidasd
 D = Requiere un polyfile para ser transpilados y ser interpretados en todos los navegadores //Babbel
+####HTML code 
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>Hello world!</title>
+    </head>
+    <body>
+        <h1>Hello world!</h1>
+    </body>
+</html>
+```
 
 
 ### Fuentes:
